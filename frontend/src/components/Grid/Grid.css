@@ -1,0 +1,21 @@
+/* src/TwoColumnLayout.css */
+.containerGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  .column {
+    background-color: #f0f0f0;
+    padding: 20px;
+    width: 100%;
+  }
+  .image{
+    width: 550px;
+    height: 300px;
+    border-radius: 30px;
+}
+  
+  
+ 
+  
